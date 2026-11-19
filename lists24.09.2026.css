@@ -1,0 +1,18 @@
+p{
+    Font-size: 30px;
+    Background-color: yellow;
+    Color: green;
+}
+
+ul{
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+p1{
+    font-size: 2em;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}

@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #00fbff;
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    float: center;
+    background-color: #00ffbf;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    float: center;
+    color: #333;
+    font-size: 36px;
+    margin: 0;
+/* Container for nav and main */
+.container {
+    display: flex;
+    width: 100%;
+}
+
+/* Navigation styles */
+nav {
+    width: 30%;
+    background-color: lightyellow;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+/* Main content styles */
+main {
+    width: 70%;
+    background-color: rgb(0, 255, 200);
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+/* Remove float from nav and aside */
+nav,
+aside {
+    float: left;
+    background-color: lightgreen;
+    padding: 15px;
+}
+    padding: 15px;
+}
+button {
+    background-color: #ff0000;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    border-radius: 10px;
+}
+img {
+    margin: 0 auto;
+    center;
+    display: block;
+}
+h3{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    background-color: linear-gradient(to right, #00fbff, #f700ff);
+    text-align: center;
+}

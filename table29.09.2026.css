@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+}
+table{
+    color: #91ecfe;
+    width: 100%;
+    border: 7px double #91ecfe;
+}
+th, td{
+    border: 1px solid #91ecfe;
+    padding: 8px;
+    text-align: left;
+}
+tr:hover{
+    background-color: #f72d2d;
+}
+td:hover{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    background-color: #f72d2d;
+}
+tr:nth-child(odd){
+background-color: #000000;
+}

@@ -1,0 +1,19 @@
+
+body{
+    background-color: blue;
+}
+p{
+    font-size: 30px;
+    color: cyan;
+}
+p.p1{
+    font-size: 2em;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p.p3{
+    font-family: 'Courier New', Courier, monospace;
+}

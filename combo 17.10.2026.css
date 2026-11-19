@@ -1,0 +1,16 @@
+h1{
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #38ff74;
+}
+ol{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #f5ff38;
+}
+body{
+            background-color: #d400ff;
+}
